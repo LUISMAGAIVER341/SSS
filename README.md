@@ -32,4 +32,5 @@ In the `html`, link the js file by the following piece of code:
 
 ## Methods
 
-`top`: usage: sss.top("The id of your element", "The value");  <-- This is the distance between
+`top`: usage: sss.top("The id of your element", "The value");  <-- This is the distance between the top and the element.
+`bottom`: usage: sss.bottom("The id of your element", "The Value");  <-- This is the distance between the bottom and the element
